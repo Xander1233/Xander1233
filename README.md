@@ -1,5 +1,13 @@
 # Hi 👋
 
+### Table of contents
+ - [About me](https://github.com/Xander1233#-about-me)
+ - [I’m currently working on](https://github.com/Xander1233#-im-currently-working-on)
+ - [My stack](https://github.com/Xander1233#-my-stack)
+ - [Im currently learning](https://github.com/Xander1233#-im-currently-learning)
+ - [What i wanna learn and do in the future](https://github.com/Xander1233#-what-i-wanna-learn-and-do-in-the-future)
+ - [How to reach me](https://github.com/Xander1233#-how-to-reach-me)
+
 ### 🌱 About me
 I am 17 years old and coming from Frankfurt (Main). I am going in the 11th year on the Hochtaunusschule Oberursel. My intensified course is practical computer science.
 
