@@ -28,4 +28,6 @@ I am 17 years old and coming from Frankfurt (Main). I am going in the 11th year 
  - Discord: Xandrrrr#7774
  - [Twitter](https://twitter.com/XandrrrrR6)
 
+---
+
 [![github stats](https://github-readme-stats.vercel.app/api?username=Xander1233&count_private=true&theme=onedark)](https://github.com/Xander1233)
