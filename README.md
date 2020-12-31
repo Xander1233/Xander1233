@@ -12,7 +12,7 @@ Welcome to my Profil on GitHub. Feel free to contact me on collaboration request
  - [How to reach me](https://github.com/Xander1233#-how-to-reach-me)
 
 ### 🌱 About me
-I am 17 years old and coming from Frankfurt (Main). I am going in the 11th year on the Hochtaunusschule Oberursel. My intensified course is practical computer science.
+I am 17 years old and living in Germany. I am going to the 11th year on a local local high school. My intensified course is practical computer science.
 
 ### 😄 I’m currently working on
  - Glacier (Multipurpose Discord Bot)
