@@ -16,24 +16,33 @@ I am 17 years old and living in Germany. I am going to the 11th year on a local 
 
 ### 😄 I’m currently working on
  - Glacier (Multipurpose Discord Bot)
- - Collab with @MogulDevelopment
 
 ### ⚡ My Stack
- - JS/TS
- - C++
- - C#
+ - Node.js / Typescript
  - Java
  - HTML5
  - CSS
+ - C#
+ - C++
+ - SQL
 
 ### 🤔 I’m currently learning
  - Rust
  - Go
+ - Python
+ 
+### 📚 Older projects and collabs
+ - Former collaborator from MogulDevelopment (Closed-Source) | Typescript
+ - Arsenic - Mutlipurpose Discord Bot (Deprecated and Closed-Source) | Node.js
+ - [KS 10m in Rainbow Six Siege - 5v5 Tournament Creation for Rainbow Six Siege in Discord (Open-Source and Deprecated) | Node.js](https://github.com/Xander1233/KS-weekend-10man-PC-PS4)
+ - [Little Trade bot for Trilluxe's Discord server (Deprecated and Open-Source) | Node.js](https://github.com/Xander1233/Trilluxe-trade-bot)
+ - [LSE with 2 Equations (Deprecated and Open-Source) | Java](https://github.com/Xander1233/LSEWith2Equations)
+ - [LSE with 3 Equations (Deprecated and Open-Source) | Java](https://github.com/Xander1233/LSEWith3Equations)
  
 ### 🔭 What i wanna learn and do in the future
  - Swift
- - Master of Science with main emphasis on computer science (Maybe promovation to Dr.)
- - Get a good payed job in at a big company like Apple, Facebook, Google
+ - Master of Science with main emphasis on computer science
+ - Work at a big company or create my own company related to computer science and software
  
 ### 📫 How to reach me:
  - Discord: Xandrrrr#7774
