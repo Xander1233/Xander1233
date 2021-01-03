@@ -16,4 +16,10 @@ I am 17 years old and living in Germany. I am in the 11th grade on a local local
 
 ---
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=Xander1233&count_private=true&theme=onedark)](https://github.com/Xander1233)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Xander1233&count_private=true&hide_border=true&cache_seconds=2000&bg_color=4badf2&title_color=000&text_color=000&icon_color=000&show_icons=true)](https://github.com/Xander1233)
+
+---
+
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xandrrrr&layout=compact)](https://github.com/Xander1233)
+
+---
