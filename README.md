@@ -20,6 +20,6 @@ I am 17 years old and living in Germany. I am in the 11th grade on a local local
 
 ---
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xandrrrr&layout=compact)](https://github.com/Xander1233)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xandrrrr&layout=compact)](https://github.com/Xander1233)
 
 ---
