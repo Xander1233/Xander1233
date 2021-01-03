@@ -1,0 +1,22 @@
+# 📚 Older projects and collabs
+ - Former collaborator from MogulDevelopment
+   - Closed Source
+   - Typescript
+ - Arsenic - Mutlipurpose Discord Bot
+   - Closed Source
+   - Deprecated
+   - Node.js
+ - [KS 10m in Rainbow Six Siege - 5v5 Tournament Creation for Rainbow Six Siege in Discord](https://github.com/Xander1233/KS-weekend-10man-PC-PS4)
+   - Open Source
+   - Deprecated
+   - Node.js
+ - [Little Trade bot for Trilluxe's Discord server](https://github.com/Xander1233/Trilluxe-trade-bot)
+   - Open Source
+   - Deprecated
+   - Node.js
+ - [LSE with 2 Equations](https://github.com/Xander1233/LSEWith2Equations)
+   - Open Source
+   - Java
+ - [LSE with 3 Equations](https://github.com/Xander1233/LSEWith3Equations)
+   - Open Source
+   - Java
