@@ -32,12 +32,27 @@ I am 17 years old and living in Germany. I am going to the 11th year on a local 
  - Python
  
 ### 📚 Older projects and collabs
- - Former collaborator from MogulDevelopment (Closed-Source) | Typescript
- - Arsenic - Mutlipurpose Discord Bot (Deprecated and Closed-Source) | Node.js
- - [KS 10m in Rainbow Six Siege - 5v5 Tournament Creation for Rainbow Six Siege in Discord (Open-Source and Deprecated) | Node.js](https://github.com/Xander1233/KS-weekend-10man-PC-PS4)
- - [Little Trade bot for Trilluxe's Discord server (Deprecated and Open-Source) | Node.js](https://github.com/Xander1233/Trilluxe-trade-bot)
- - [LSE with 2 Equations (Deprecated and Open-Source) | Java](https://github.com/Xander1233/LSEWith2Equations)
- - [LSE with 3 Equations (Deprecated and Open-Source) | Java](https://github.com/Xander1233/LSEWith3Equations)
+ - Former collaborator from MogulDevelopment
+   - Closed Source
+   - Typescript
+ - Arsenic - Mutlipurpose Discord Bot
+   - Closed Source
+   - Deprecated
+   - Node.js
+ - [KS 10m in Rainbow Six Siege - 5v5 Tournament Creation for Rainbow Six Siege in Discord](https://github.com/Xander1233/KS-weekend-10man-PC-PS4)
+   - Open Source
+   - Deprecated
+   - Node.js
+ - [Little Trade bot for Trilluxe's Discord server](https://github.com/Xander1233/Trilluxe-trade-bot)
+   - Open Source
+   - Deprecated
+   - Node.js
+ - [LSE with 2 Equations](https://github.com/Xander1233/LSEWith2Equations)
+   - Open Source
+   - Java
+ - [LSE with 3 Equations](https://github.com/Xander1233/LSEWith3Equations)
+   - Open Source
+   - Java
  
 ### 🔭 What i wanna learn and do in the future
  - Swift
