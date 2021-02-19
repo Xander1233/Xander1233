@@ -1,4 +1,5 @@
 # 🤔 I’m currently learning
- - Rust
- - Go
- - Python
+ - Assembly
+ - C
+ - C#
+ - Java (In school)
