@@ -1,7 +1,7 @@
 # Hi 👋
 
 I’m Xander, also known as David or Xandrrrr.
-Welcome to my Profile on GitHub. Feel free to contact me on collaboration request, issues or questions.
+Welcome to my Profile on GitHub. Feel free to contact me for collaboration request, issues or questions.
 
 ### Table of contents
  - [About me](https://github.com/Xander1233#-about-me)
