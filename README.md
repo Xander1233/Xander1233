@@ -12,7 +12,7 @@ Welcome to my Profile on GitHub. Feel free to contact me for collaboration reque
  - [How to reach me](https://github.com/Xander1233/Xander1233/blob/latest/CONTACT.md)
 
 ### 🌱 About me
-I am 17 years old and living in Germany. I am in the 11th grade on a local high school. One of my intensified courses is practical computer science.
+I am 17 years old and living in Germany. I am in the 11th grade on a local high school. One of my intensified courses is practical computer science with very good grades (America: A+, A | Germany: 15, 14 / 1+, 1)
 
 ---
 
