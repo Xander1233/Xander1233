@@ -1,18 +1,130 @@
-# Hi 👋
+Welcome to my GitHub Profile. Feel free to open issues, when you find any spelling errors, etc. Thank you 🙏
 
-I’m Xander, also known as David or Xandrrrr.
-Welcome to my Profile on GitHub. Feel free to contact me for collaboration requests, issues or questions.
+# Hi
+<details>
+ <summary>Click to get some information about me (Xander)</summary>
+ 
+ ## Information
+  - Name: David Neidhart
+  - Age: 17 (Born on 09/03/2003)
+  - Country of residence: Germany
+  - Education:
+    - 11th grade high school
+    - Intensified course: CS
+      - Grades: A
+</details>
 
-### Table of contents
- - [About me](https://github.com/Xander1233#-about-me)
- - [I’m currently working on](https://github.com/Xander1233/Xander1233/blob/latest/CURRENT_WORK.md)
- - [My stack](https://github.com/Xander1233/Xander1233/blob/latest/STACK.md)
- - [Im currently learning](https://github.com/Xander1233/Xander1233/blob/latest/CURRENT_LEARNING.md)
- - [What i wanna learn and do in the future](https://github.com/Xander1233/Xander1233/blob/latest/FUTURE.md)
- - [How to reach me](https://github.com/Xander1233/Xander1233/blob/latest/CONTACT.md)
+# Collaborations/Projects
+<details>
+ <summary>Click to get an overview about every current and old collaborations as wells as projects</summary>
+ 
+ ## Collabs
+  - ### Dustie Bot
+    - Endless customizable discord bot with many tools + easy2use web panel to customize the bot
+  - ### TycoonMogul
+    - Discord bot which gives your server some touch by providing every user a small tycoon minigame inside the whole discord world
+    - Deprecated
+  - ### [VoidChan](https://github.com/VoidChan/VoidChan)
+    - Multi format CDN for ShareX
+ ## Private projects
+  - ### Roll It
+    - School project
+    - Unity 3D game coded in C#
+    - Under Development!
+  - ### P3ac
+    - Multipurpose Discord bot with web panel, messages, filters and many more automatic features
+    - Under Development!
+  - ### Chess in C++
+    - The title says everything...
+  - ### [Learning Assembly](https://github.com/Xander1233/assemblyCode)
+    - With mutliple tutorials on YouTube, etc.
+  - ### XanderihnOS
+    - Very small (Veeeeeeeeeeerrrry small btw) OS to test out Assembly and C
+    - Deprecated
+  - ### [6502-Emulator](https://github.com/Xander1233/6502-Emulator)
+    - Emulator of an 6502 coded in C++
+  - ### [Bin addition and multiply](https://github.com/Xander1233/binaryCalc)
+    - Java class with functions for multiplying and adding 2 Base2 numbers together
+      - Plus integrated functions for conversion from Base2 -> Base10 and vice versa
+</details>
 
-### 🌱 About me
-I am 17 years old and living in Germany. I am in the 11th grade on a local high school. One of my intensified courses is practical computer science with very good grades (US: A+, A | Ger: 15, 14 / 1+, 1)
+# Stack
+<details>
+ <summary>Click to see a complete list of all my whole stack</summary>
+ 
+ ## Languages
+ - Typescript (**Main** language)
+ - JavaScript (Framework Node.JS)
+ - Java
+ - HTML (I count it as a language in this list)
+ - CSS
+ - C#
+ - Swift
+ - C++
+ - C
+ - Netwide Assembly
+ - SQL
+ 
+ ## Frameworks
+ - Node.JS (If you count it as a framework...)
+ - Express
+ - Socket.io
+
+ ## IDE
+ - WebStorm
+ - IntelliJ IDEA
+ - CLion
+ - Rider
+ - VSCode
+ - Visual Studio 2019
+ - Atom
+
+ *(Everything above is ordered by experience, proficiency and usage in each language, framework, IDE)*
+
+ ## Tools
+ - YouTrack selfhosted
+ - MongoDB Compass
+ - ShareX
+ - GitHub
+ - Unity
+ - Docker
+</details>
+
+# Currently learning
+<details>
+ <summary>Click to get a quick resume about what i'm currently learning</summary>
+ 
+ ## Languages
+ - NASM/MASM
+ - C
+ - Java (School course)
+ - Go
+ - Rust
+ 
+ ## Miscellaneous
+ - Frontend Development
+ - XCode
+ - Microservices
+</details>
+
+# Future
+<details>
+ <summary>Click in order to receive a summary of my future plans</summary>
+ 
+ ## Education
+ - MS in CS
+ - A level degree
+ 
+ ## Jobs
+ - Job at Apple or Discord (Section: Software Development (Backend preferred))
+</details>
+
+# Contact details
+ - Discord Xandrrrr#7774
+ - [Twitter](https://twitter.com/XandrrrrR6)
+ - [LinkedIn](https://www.linkedin.com/in/david-neidhart-614180201/)
+
+*Feel free*
 
 ---
 
@@ -21,5 +133,3 @@ I am 17 years old and living in Germany. I am in the 11th grade on a local high 
 ---
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xandrrrr&layout=compact)](https://github.com/Xander1233)
-
----
