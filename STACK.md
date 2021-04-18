@@ -2,7 +2,7 @@
  - Typescript ("Main" lang)
  - Javascript
  - Java
- - HTML5
+ - HTML
  - CSS
  - C#
  - C++
