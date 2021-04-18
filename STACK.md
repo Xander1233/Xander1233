@@ -1,5 +1,6 @@
 # 🗃️ My Stack
- - Node.js / Typescript ("Main" lang)
+ - Typescript ("Main" lang)
+ - Javascript
  - Java
  - HTML5
  - CSS
@@ -8,3 +9,5 @@
  - C (A bit!)
  - Assembly (A bit!)
  - SQL
+
+(Ordered by experience and proficiency in each language)
