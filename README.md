@@ -12,6 +12,7 @@ Welcome to my GitHub Profile. Feel free to open issues, when you find any spelli
     - 11th grade high school
     - Intensified course: CS
       - Grades: A
+  - I started programming in December 2019
 </details>
 
 # Collaborations/Projects
