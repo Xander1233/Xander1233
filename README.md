@@ -58,7 +58,7 @@ Welcome to my GitHub Profile. Feel free to open issues, when you find any spelli
  - JavaScript (Framework Node.JS)
  - Java
  - HTML (I count it as a language in this list)
- - CSS
+ - CSS/SASS/SCSS
  - C#
  - Swift
  - C++
