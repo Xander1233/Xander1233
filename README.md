@@ -89,6 +89,12 @@ Welcome to my GitHub Profile. Feel free to open issues, when you find any spelli
  - GitHub
  - Unity
  - Docker
+
+## Certificates/Skill-Assessments
+ - JavaScript Core Language: Proficient - 195 Skill IQ on Pluralsight
+ - Node.JS: Proficient - 183 Skill IQ on Pluralsight
+ - Express: Proficient - 150 Skill IQ on Pluralsight
+ - Typescript Core Language: Proficient - 182 Skill IQ on Pluralsight
 </details>
 
 # Currently learning
