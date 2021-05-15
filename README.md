@@ -1,6 +1,6 @@
-Welcome to my GitHub Profile. Feel free to open issues, when you find any spelling errors, etc. Thank you 🙏
+<p align="center">Welcome to my GitHub Profile. Feel free to open issues, when you find any spelling errors, etc. Thank you 🙏</p>
 
-# Hi
+# 🤙 Hi
 <details>
  <summary>Click to get some information about me (Xander)</summary>
  
@@ -15,7 +15,7 @@ Welcome to my GitHub Profile. Feel free to open issues, when you find any spelli
   - I started programming in December 2019
 </details>
 
-# Collaborations/Projects
+# 🤝 Collaborations/Projects
 <details>
  <summary>Click to get an overview about every current and old collaborations as wells as projects</summary>
  
@@ -49,11 +49,11 @@ Welcome to my GitHub Profile. Feel free to open issues, when you find any spelli
       - Plus integrated functions for conversion from Base2 -> Base10 and vice versa
 </details>
 
-# Stack
+# 🗃 Stack
 <details>
  <summary>Click to see a complete list of all my whole stack</summary>
  
- ## Languages
+ ## 🌐 Languages
  - Typescript (**Main** language)
  - JavaScript (Framework Node.JS)
  - Java
@@ -66,12 +66,12 @@ Welcome to my GitHub Profile. Feel free to open issues, when you find any spelli
  - Netwide Assembly
  - SQL
  
- ## Frameworks
+ ## 🪟 Frameworks
  - Node.JS (If you count it as a framework...)
  - Express
  - Socket.io
 
- ## IDE
+ ## 📝 IDE
  - WebStorm
  - IntelliJ IDEA
  - CLion
@@ -82,7 +82,7 @@ Welcome to my GitHub Profile. Feel free to open issues, when you find any spelli
 
  *(Everything above is ordered by experience, proficiency and usage in each language, framework, IDE)*
 
- ## Tools
+ ## 🧰 Tools
  - YouTrack selfhosted
  - MongoDB Compass
  - ShareX
@@ -90,43 +90,43 @@ Welcome to my GitHub Profile. Feel free to open issues, when you find any spelli
  - Unity
  - Docker
 
-## Certificates/Skill-Assessments
+## 📜 Certificates/Skill-Assessments
  - JavaScript Core Language: Proficient - 195 Skill IQ on Pluralsight
  - Node.JS: Proficient - 183 Skill IQ on Pluralsight
  - Express: Proficient - 150 Skill IQ on Pluralsight
  - Typescript Core Language: Proficient - 182 Skill IQ on Pluralsight
 </details>
 
-# Currently learning
+# ⌛️ Currently learning
 <details>
  <summary>Click to get a quick resume about what i'm currently learning</summary>
  
- ## Languages
+ ## 🌐 Languages
  - NASM/MASM
  - C
  - Java (School course)
  - Go
  - Rust
  
- ## Miscellaneous
+ ## 🪑 Miscellaneous
  - Frontend Development
  - XCode
  - Microservices
 </details>
 
-# Future
+# ⏳ Future
 <details>
  <summary>Click in order to receive a summary of my future plans</summary>
  
- ## Education
+ ## 🏫 Education
  - MS in CS
  - A level degree
  
- ## Jobs
+ ## 💻 Jobs
  - Job at Apple or Discord (Section: Software Development (Backend preferred))
 </details>
 
-# Contact details
+# 🔗 Contact details
  - Discord Xandrrrr#7774
  - [Twitter](https://twitter.com/XandrrrrR6)
  - [LinkedIn](https://www.linkedin.com/in/david-neidhart-614180201/)
