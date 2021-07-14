@@ -140,4 +140,5 @@
 
 ---
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xandrrrr&layout=compact)](https://github.com/Xander1233)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
