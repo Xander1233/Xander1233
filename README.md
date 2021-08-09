@@ -20,13 +20,12 @@
  <summary>Click to get an overview about every current and old collaborations as wells as projects</summary>
  
  ## Collabs
-  - ### Dustie Bot
-    - Endless customizable discord bot with many tools + easy2use web panel to customize the bot
   - ### TycoonMogul
     - Discord bot which gives your server some touch by providing every user a small tycoon minigame inside the whole discord world
     - Deprecated
-  - ### [VoidChan](https://github.com/VoidChan/VoidChan)
+  - ### VoidChan
     - Multi format CDN for ShareX
+    - Discord: 
  ## Private projects
   - ### Roll It
     - School project
@@ -54,41 +53,53 @@
  <summary>Click to see a complete list of all my whole stack</summary>
  
  ## 🌐 Languages
- - Typescript (**Main** language)
- - JavaScript (Framework Node.JS)
- - Java
- - HTML (I count it as a language in this list)
- - CSS/SASS/SCSS
- - C#
- - Swift
- - C++
- - C
- - Netwide Assembly
- - SQL
- 
+
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/typescript.svg" alt="TypeScript" />](https://www.typescriptlang.org/) <br />
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/javascript.svg" alt="JavaScript" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <br />
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/java.svg" alt="Java" />](https://www.java.com/) <br />
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/html5.svg" alt="HTML5" />](https://html5.org/) <br />
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/css3.svg" alt="CSS3" />](https://developer.mozilla.org/en-US/docs/Web/CSS) <br />
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/sass.svg" alt="SASS" />](https://sass-lang.com/) <br />
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/csharp.svg" alt="C#" />](https://docs.microsoft.com/en-us/dotnet/csharp/) <br />
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/swift.svg" alt="Swift" />](https://swift.org/) <br />
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/cplusplus.svg" alt="C++" />](https://isocpp.org/) <br />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/c.svg" alt="C" /><br />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/assemblyscript.svg" alt="Assembly" /><br />
+
  ## 🪟 Frameworks
- - Node.JS (If you count it as a framework...)
- - Express
- - Socket.io
+
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/nodedotjs.svg" alt="Node.JS" />](https://nodejs.org/en/) <br />
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/express.svg" alt="Express" />](https://expressjs.com/) <br />
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/socketdotio.svg" alt="Socket.io" />](https://socket.io/) <br />
 
  ## 📝 IDE
- - WebStorm
- - IntelliJ IDEA
- - CLion
- - Rider
- - VSCode
- - Visual Studio 2019
- - Atom
+
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/webstorm.svg" alt="Webstorm" />](https://www.jetbrains.com/webstorm/) <br />
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/intellijidea.svg" alt="IntelliJ IDEA Ultimate" />](https://www.jetbrains.com/idea/) <br />
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/clion.svg" alt="CLion" />](https://www.jetbrains.com/clion/) <br />
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/rider.svg" alt="Rider" />](https://www.jetbrains.com/rider/) <br />
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/visualstudiocode.svg" alt="VSCode" />](https://code.visualstudio.com/) <br />
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/visualstudio.svg" alt="Visual Studio 2019" />](https://visualstudio.microsoft.com/) <br />
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/atom.svg" alt="Atom" />](https://atom.io/) <br />
 
  *(Everything above is ordered by experience, proficiency and usage in each language, framework, IDE)*
 
+ ## 💾 Databases
+
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/mongodb.svg" alt="MongoDB" />](https://www.mongodb.com/en-us) <br />
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/postgresql.svg" alt="PostgreSQL" />](https://www.postgresql.org/) <br />
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/mysql.svg" alt="MySQL" />](https://www.mysql.com/de/) <br />
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/sqlite.svg" alt="SQLite" />](https://www.sqlite.org/index.html) <br />
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/apachecassandra.svg" alt="CassandraDB" />](https://cassandra.apache.org/_/index.html) <br />
+
  ## 🧰 Tools
- - YouTrack selfhosted
- - MongoDB Compass
- - ShareX
- - GitHub
- - Unity
- - Docker
+
+[YouTrack selfhosted](https://www.jetbrains.com/youtrack/) <br /><br />
+[ShareX](https://getsharex.com/) <br /><br />
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/github.svg" alt="GitHub" />](https://github.com/) <br />
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/unity.svg" alt="Unity" />](https://unity.com/) <br />
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/docker.svg" alt="Docker" />](https://www.docker.com/) <br />
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/kubernetes.svg" alt="Kubernetes" />](https://kubernetes.io/) <br />
 
 ## 📜 Certificates/Skill-Assessments
  - JavaScript Core Language: Proficient - 195 Skill IQ on Pluralsight
