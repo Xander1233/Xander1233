@@ -9,9 +9,11 @@
   - Age: 17 (Born on 09/03/2003)
   - Country of residence: Germany
   - Education:
-    - 11th grade high school
-    - Intensified course: CS
-      - Grades: A
+    - 12th grade high school
+    - Intensified courses:
+      - CS
+        - Grades: A
+      - Math
   - I started programming in December 2019
 </details>
 
