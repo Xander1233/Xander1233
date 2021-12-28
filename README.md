@@ -17,19 +17,24 @@ Instagram: [i.am.xndr](https://www.instagram.com/i.am.xndr/)</br>
 
 ## Noteworthy Projects
 
-- API-Versioney
+- **[API-Versioney](## "Automatic deployment of API versions")**
   - *Wrapper for multiple versions of an API*
   - Built with ExpressJS and TypeScript
   - Status: `Stable`
-- [CoveCloud](https://covecloud.app)
+- **[CoveCloud](https://covecloud.app "Multiformat CDN")**
   - *Multiformat CDN with web dashboard and multiple social logins*
   - Uses React and Fastify
   - Status: `Alpha testing and deployed`
-- VentSocial
+- **[VentSocial](## "Social media app")**
   - *Social media app to vent all your problems away, get advice from others, and react to other peoples vents*
   - *Worldwide availabilty with AWS*
   - Built upon Fastify, React, Swift, and Kotlin
   - Status: `Before Alpha`
+- **[EmailSender](https://github.com/Xander1233/EmailSender "Email sending microservice")**
+  - *Microservice to use for sending emails to recipients. Send-Requests are requested via POST-Requests*
+  - *Supports HTML-, Handlebar-, and Plaintext-Templates. Can be served via the request or via a CDN/Website*
+  - Created with Fastify, Nodemailer and TypeScript
+  - Status: `Alpha` 
 
 ![Metrics](https://github.com/Xander1233/Xander1233/blob/master/github-metrics.svg)
 
