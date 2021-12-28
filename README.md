@@ -3,7 +3,7 @@
 ## About
 
 Name: **David Neidhart**</br>
-Age: **18** (09/03/03 (MM/DD/YY))</br>
+Age: **18** ([09/03/03](## "MM/DD/YYYY"))</br>
 Majors: **Computer Science** and **Maths**</br>
 
 ## Contact
