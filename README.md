@@ -40,7 +40,7 @@ Instagram: [i.am.xndr](https://www.instagram.com/i.am.xndr/)</br>
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 December, 2021 - 31 December, 2021
+Week: 26 December, 2021 - 01 January, 2022
 
 TypeScript   29 hrs 44 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.70 % 
 JavaScript   5 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.30 % 
