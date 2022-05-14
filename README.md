@@ -12,8 +12,9 @@ Twitter: [@XandrrrrR6](https://twitter.com/XandrrrrR6)</br>
 LinkedIn: [David Neidhart](https://www.linkedin.com/in/david-neidhart-614180201/)</br>
 Discord: Xandrrrr#7774</br>
 Instagram: [i.am.xndr](https://www.instagram.com/i.am.xndr/)</br>
+E-Mail: [david.neidhart@xndr.tech](mailto:david.neidhart@xndr.tech)
 
-*Feel free to contact me over one of the platforms above for my E-Mail*
+*Feel free to contact me*
 
 ## Noteworthy Projects
 
