@@ -11,7 +11,7 @@ Majors: **Computer Science** and **Maths**</br>
 Twitter: [@XandrrrrR6](https://twitter.com/XandrrrrR6)</br>
 LinkedIn: [David Neidhart](https://www.linkedin.com/in/david-neidhart-614180201/)</br>
 Discord: Xandrrrr#7774</br>
-Instagram: [i.am.xndr](https://www.instagram.com/i.am.xndr/)</br>
+Instagram: [daneidhart_0309](https://www.instagram.com/daneidhart_0309/)</br>
 E-Mail: [david.neidhart@xndr.tech](mailto:david.neidhart@xndr.tech)
 
 *Feel free to contact me*
