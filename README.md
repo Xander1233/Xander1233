@@ -8,45 +8,38 @@ Majors: **Computer Science** and **Maths**</br>
 
 ## Contact
 
-Twitter: [@XandrrrrR6](https://twitter.com/XandrrrrR6)</br>
 LinkedIn: [David Neidhart](https://www.linkedin.com/in/david-neidhart-614180201/)</br>
 Discord: Xandrrrr#7774</br>
-Instagram: [daneidhart_0309](https://www.instagram.com/daneidhart_0309/)</br>
 E-Mail: [david.neidhart@xndr.tech](mailto:david.neidhart@xndr.tech)
 
-*Feel free to contact me*
+*Of course you can contact me about this at any time*
 
 ## Noteworthy Projects
 
+*I can't work much on personal projects at the moment because I'm about to finish my A-levels, thus I deprecated or discontinued most of my projects.*
+
+- **[@xandrrrr/prompt-kit](https://www.npmjs.com/package/@xandrrrr/prompt-kit "Package to build interactive CLIs")**
+  - *Package to build interactive command line interfaces with ease*
+  - *Supports TS and JS*
+  - Written in TypeScript and uses only node-built-in modules
+  - Status: `Stable`
 - **[API-Versioney](## "Automatic deployment of API versions")**
   - *Wrapper for multiple versions of an API*
   - Built with ExpressJS and TypeScript
-  - Status: `Stable`
+  - Status: `Deprecated`
 - **[CoveCloud](https://covecloud.app "Multiformat CDN")**
   - *Multiformat CDN with web dashboard and multiple social logins*
   - Uses React and Fastify
-  - Status: `Alpha testing and deployed`
+  - Status: `Deprecated and closed`
 - **[VentSocial](## "Social media app")**
   - *Social media app to vent all your problems away, get advice from others, and react to other peoples vents*
   - *Worldwide availabilty with AWS*
   - Built upon Fastify, React, Swift, and Kotlin
-  - Status: `Before Alpha`
+  - Status: `Discontinued`
 - **[EmailSender](https://github.com/Xander1233/EmailSender "Email sending microservice")**
   - *Microservice to use for sending emails to recipients. Send-Requests are requested via POST-Requests*
   - *Supports HTML-, Handlebar-, and Plaintext-Templates. Can be served via the request or via a CDN/Website*
   - Created with Fastify, Nodemailer and TypeScript
-  - Status: `Alpha` 
+  - Status: `Deprecated`
 
 ![Metrics](https://github.com/Xander1233/Xander1233/blob/master/github-metrics.svg)
-
-<!--START_SECTION:waka-->
-```text
-Week: 02 February, 2022 - 08 February, 2022
-
-TypeScript   14 hrs 40 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.33 % 
-Assembly     12 hrs 47 mins  ⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.93 % 
-JavaScript   8 hrs 33 mins   ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.03 % 
-C            3 hrs 1 min     ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.10 % 
-Other        2 hrs 48 mins   ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.58 % 
-```
-<!--END_SECTION:waka-->
