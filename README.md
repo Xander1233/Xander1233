@@ -6,23 +6,25 @@ Name: **David Neidhart**</br>
 Age: **21** ([09/03/03](## "MM/DD/YYYY"))</br>
 Majors: **Computer Science** and **Maths**</br>
 
+[Personal Website](https://xndr.tech)
+
 ## Contact
 
 LinkedIn: [David Neidhart](https://www.linkedin.com/in/david-neidhart-614180201/)</br>
-Discord: Xandrrrr#7774</br>
+Discord: xandrrrr</br>
 E-Mail: [david.neidhart@xndr.tech](mailto:david.neidhart@xndr.tech)
 
-*Of course you can contact me about this at any time*
+*Of course you can contact me via any of the links above at any time*
 
 ## Noteworthy Projects
 
-*I can't work much on personal projects at the moment because I'm about to finish my A-levels, thus I deprecated or discontinued most of my projects.*
+*I can't work much on personal projects at the moment because I'm currently working at [ODDO BHF SE](https://www.oddo-bhf.com/en) and I am part-time studying Software-Engineering at the [IU International University](https://www.iu.de/)*
 
 - **[@xandrrrr/prompt-kit](https://www.npmjs.com/package/@xandrrrr/prompt-kit "Package to build interactive CLIs")**
   - *Package to build interactive command line interfaces with ease*
   - *Supports TS and JS*
   - Written in TypeScript and uses only node-built-in modules
-  - Status: `Stable`
+  - Status: `Discontinued`
 - **[API-Versioney](## "Automatic deployment of API versions")**
   - *Wrapper for multiple versions of an API*
   - Built with ExpressJS and TypeScript
@@ -41,5 +43,3 @@ E-Mail: [david.neidhart@xndr.tech](mailto:david.neidhart@xndr.tech)
   - *Supports HTML-, Handlebar-, and Plaintext-Templates. Can be served via the request or via a CDN/Website*
   - Created with Fastify, Nodemailer and TypeScript
   - Status: `Deprecated`
-
-![Metrics](https://github.com/Xander1233/Xander1233/blob/master/github-metrics.svg)
