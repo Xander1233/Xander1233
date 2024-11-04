@@ -43,3 +43,5 @@ E-Mail: [david.neidhart@xndr.tech](mailto:david.neidhart@xndr.tech)
   - *Supports HTML-, Handlebar-, and Plaintext-Templates. Can be served via the request or via a CDN/Website*
   - Created with Fastify, Nodemailer and TypeScript
   - Status: `Deprecated`
+
+![](https://hit.yhype.me/github/profile?user_id=57237934)
