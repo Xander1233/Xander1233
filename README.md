@@ -1,10 +1,10 @@
-<p align="center">Welcome to my GitHub Profile. Feel free to open issues, when you find any spelling errors, etc. Thank you 🙏</p>
+<p align="center">You overestimate what you could do in a day but underestimate what you can do in a year</p>
 
 ## About
 
 Name: **David Neidhart**</br>
 Age: **21** ([09/03/03](## "MM/DD/YYYY"))</br>
-Majors: **Computer Science** and **Maths**</br>
+Major: **Software Development**</br>
 
 [Personal Website](https://xndr.tech)
 
