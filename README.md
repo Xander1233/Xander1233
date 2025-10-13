@@ -3,7 +3,7 @@
 ## About
 
 Name: **David Neidhart**</br>
-Age: **21** ([09/03/03](## "MM/DD/YYYY"))</br>
+Age: **22** ([09/03/03](## "MM/DD/YYYY"))</br>
 Major: **Software Development**</br>
 
 [Personal Website](https://xndr.tech)
