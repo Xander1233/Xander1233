@@ -6,13 +6,13 @@ Name: **David Neidhart**</br>
 Age: **22** ([09/03/03](## "MM/DD/YYYY"))</br>
 Major: **Software Development**</br>
 
-[Personal Website](https://xndr.tech)
+[Personal Website](https://david-neidhart.de)
 
 ## Contact
 
-LinkedIn: [David Neidhart](https://www.linkedin.com/in/david-neidhart-614180201/)</br>
+LinkedIn: [David Neidhart](https://www.linkedin.com/in/david-alexander-neidhart-614180201/)</br>
 Discord: xandrrrr</br>
-E-Mail: [david.neidhart@xndr.tech](mailto:david.neidhart@xndr.tech)
+E-Mail: [contact@david-neidhart.de](mailto:contact@david-neidhart.de)
 
 *Of course you can contact me via any of the links above at any time*
 
