@@ -18,30 +18,18 @@ E-Mail: [contact@david-neidhart.de](mailto:contact@david-neidhart.de)
 
 ## Noteworthy Projects
 
-*I can't work much on personal projects at the moment because I'm currently working at [ODDO BHF SE](https://www.oddo-bhf.com/en) and I am part-time studying Software-Engineering at the [IU International University](https://www.iu.de/)*
-
+- **[Kairos](https://kairosstatus.com/)**
+  - *Kairos is a web application for tracking job applications, interview prep and professional contacts, with a built-in LaTeX CV editor and version history*
+  - Built with Rust, React and Terraform
+  - Hosted on Hetzner; Uses Amazon SES, AWS Lambda, AWS Cognito, AWS AppConfig, AWS S3, AWS CloudFront
+  - Status: `Closed Beta`
+- **[Hermes](https://github.com/Xander1233/hermes)**
+  - *Authoritative DNS server in Rust with RFC 1034 query resolution, CNAME flattening over dual-stack TCP/UDP. Includes a management service to update zones*
+  - Dual-stack DNS built with Rust
+  - Management Stack built with C# and React
+  - Status: `Stable`
 - **[@xandrrrr/prompt-kit](https://www.npmjs.com/package/@xandrrrr/prompt-kit "Package to build interactive CLIs")**
   - *Package to build interactive command line interfaces with ease*
   - *Supports TS and JS*
   - Written in TypeScript and uses only node-built-in modules
   - Status: `Discontinued`
-- **[API-Versioney](## "Automatic deployment of API versions")**
-  - *Wrapper for multiple versions of an API*
-  - Built with ExpressJS and TypeScript
-  - Status: `Deprecated`
-- **[CoveCloud](https://covecloud.app "Multiformat CDN")**
-  - *Multiformat CDN with web dashboard and multiple social logins*
-  - Uses React and Fastify
-  - Status: `Deprecated and closed`
-- **[VentSocial](## "Social media app")**
-  - *Social media app to vent all your problems away, get advice from others, and react to other peoples vents*
-  - *Worldwide availabilty with AWS*
-  - Built upon Fastify, React, Swift, and Kotlin
-  - Status: `Discontinued`
-- **[EmailSender](https://github.com/Xander1233/EmailSender "Email sending microservice")**
-  - *Microservice to use for sending emails to recipients. Send-Requests are requested via POST-Requests*
-  - *Supports HTML-, Handlebar-, and Plaintext-Templates. Can be served via the request or via a CDN/Website*
-  - Created with Fastify, Nodemailer and TypeScript
-  - Status: `Deprecated`
-
-![](https://hit.yhype.me/github/profile?user_id=57237934)
